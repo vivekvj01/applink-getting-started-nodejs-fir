@@ -5,7 +5,7 @@ schema-version = "0.2"
 id = "heroku/nodejs"
 
 [[io.buildpacks.group]]
-id = "heroku/heroku-buildpack-heroku-integration-service-mesh"
+id = "heroku/heroku-buildpack-heroku-applink-service-mesh"
 
 [[io.buildpacks.group]]
 id = "heroku/procfile"
